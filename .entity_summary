@@ -1,0 +1,3 @@
+- Besitzer (besitzer): vorname[string/text], nachname[string/text], email[string/email], telefon[string/tel], bemerkungen[string/textarea]
+- Medien (medien): menu_name[string/text], beschreibung[string/textarea], kategorie[lookup/select], preis[number], verfuegbar[bool], besitzer[applookup/select]
+  → besitzer links to app_id 6a55faba74fae90806c528d5
